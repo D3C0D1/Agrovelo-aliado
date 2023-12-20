@@ -1,5 +1,5 @@
 # Agrovelo-aliado
-App para ofertar productos agropecuarios o utilidades y generando un canal de ventas con posibilidades de compras mayores;Esta app ahce parte d eun suprasistema de otras 3 apps la cual hacen sinergia con el objetivo del suprasistema, de ser ecommerce para los usuarios consumidores,aliados,transportistas y administradores.
+App para ofertar productos agropecuarios o utilidades, generando un canal de ventas con posibilidades de compras mayores;Esta app ahce parte d eun suprasistema de otras 3 apps la cual hacen sinergia con el objetivo del suprasistema, de ser ecommerce para los usuarios consumidores,aliados,transportistas y administradores.
 
 Loggin
 
