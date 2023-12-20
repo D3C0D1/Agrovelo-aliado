@@ -1,2 +1,7 @@
-# Agrovelo-aliado
-App para ofertar productos agropecuarios o utilidades y generar un canal de ventas con posibilidades de compras mayores.
+# Agroaliado
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
