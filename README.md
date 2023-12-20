@@ -2,12 +2,15 @@
 App para ofertar productos agropecuarios o utilidades y generar un canal de ventas con posibilidades de compras mayores.
 
 Loggin
+
 ![image](https://github.com/D3C0D1/Agrovelo-aliado/assets/124421179/0a9baf72-71cb-4b58-b7c7-507a20d1cea9)
 
 Registro
+
 ![image](https://github.com/D3C0D1/Agrovelo-aliado/assets/124421179/d5191c6a-e220-4f53-b99e-e2f4b3620af7)
 
 Dashboard
+
 ![image](https://github.com/D3C0D1/Agrovelo-aliado/assets/124421179/55bd7fe5-1411-447f-869a-5f430b801198)
 
 Panel
